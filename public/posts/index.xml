@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>d.kislov home site</title>
-    <link>https://dkislov.github.io/</link>
-    <description>Recent content on d.kislov home site</description>
+    <title>Posts on d.kislov home site</title>
+    <link>https://dkislov.github.io/posts/</link>
+    <description>Recent content in Posts on d.kislov home site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 13:46:03 +0000</lastBuildDate><atom:link href="https://dkislov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 13:46:03 +0000</lastBuildDate><atom:link href="https://dkislov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial post</title>
       <link>https://dkislov.github.io/posts/my-first-post/</link>
