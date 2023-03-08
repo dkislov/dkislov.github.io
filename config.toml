@@ -1,4 +1,4 @@
-baseURL = 'http://dkislov.org/'
+baseURL = 'https://dkislov.github.io/dkislov-home/'
 languageCode = 'en-us'
 title = 'd.kislov home site'
 theme = "paper"
