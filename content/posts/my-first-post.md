@@ -1,7 +1,7 @@
 ---
 title: "Initial post"
 date: 2023-03-08T13:46:03Z
-draft: true
+draft: false
 ---
 
 ## New start

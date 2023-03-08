@@ -1,7 +1,7 @@
 ---
 title: "Playing with GitHub pages"
 date: 2023-03-08T13:46:03Z
-draft: true
+draft: false
 ---
 
 ## Read GitHub pages documentation
